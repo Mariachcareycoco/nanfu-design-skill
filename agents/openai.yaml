@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nanfu Global Design System"
+  short_description: "Nanfu.global battery brand design system skill"
+  default_prompt: "Build Nanfu-style frontend pages with green energy brand design tokens, components, and animation patterns."
