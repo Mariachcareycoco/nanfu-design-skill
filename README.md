@@ -12,7 +12,7 @@ This is an **AI coding assistant skill** — a structured design system that tur
 
 | 🌓 **Breath Section Alternation** | Every dark section MUST be followed by light — creates visual rhythm across 10+ sections |
 | :--- | :--- |
-| 🎨 **Red & Black Color System** | Saturated --primary: #e60008 accent red + pitch-black #000 backgrounds + dark/light card variants |
+| 🎨 **Red & Black Color System** | Saturated accent red #e60008 + pitch-black #000 backgrounds + dark/light card variants |
 | 🔤 **96px Hero Typography** | Massive rem-based scale (0.96rem = 96px) — never shrink the minimums |
 | 🎬 **GSAP Scroll Animation Engine** | Per-character text split, counter animation, parallax hero, staggered card entrances |
 | 🪟 **Glassmorphism & Particle Canvas** | Glass cards on dark sections + interactive battery-particle canvas with mouse response |
@@ -42,7 +42,7 @@ The AI automatically applies all design tokens, component templates, section alt
 - **Framework**: Vanilla JS (no React/Vue required)
 - **Animation**: GSAP 3.12+ + ScrollTrigger + Lenis smooth-scroll
 - **CSS**: rem-based (5.20833vw base), flexbox + grid
-- **Structure**: SKILL.md (330+ lines of spec) + gents/ (AI config) + README.md + LICENSE
+- **Structure**: SKILL.md (330+ lines of spec) + agents/ (AI config) + README.md + LICENSE
 
 ## 📊 By the numbers
 
@@ -65,7 +65,7 @@ The AI automatically applies all design tokens, component templates, section alt
 
 | 🌓 **呼吸式明暗交替** | 每个深色区段后紧跟浅色区段，10+ 区段形成视觉呼吸感 |
 | :--- | :--- |
-| 🎨 **红黑配色系统** | 饱和度 --primary: #e60008 红色 + 纯黑 #000 背景 |
+| 🎨 **红黑配色系统** | 饱和度红色 #e60008 + 纯黑 #000 背景 |
 | 🔤 **96px Hero 大标题** | 巨幅 rem 字体体系（0.96rem = 96px），永不缩水 |
 | 🎬 **GSAP 滚动动画引擎** | 逐字拆分、数字计数、视差 Hero、卡片交错入场 |
 | 🪟 **毛玻璃 & 粒子 Canvas** | 暗色区段玻璃卡片 + 可交互电池粒子画布 |
